@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Rubik", serif;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
